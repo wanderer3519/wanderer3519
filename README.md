@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Web Development, DSA related stuff
 - 📫 How to reach me ... 112201013@smail.iitpkd.ac.in or srikrishnabhogaraju@gmail.com
-- 😄 Pronouns: ...Krish
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...I am single lol :)
 
 <!---
