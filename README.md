@@ -3,9 +3,10 @@ wanderer3519/wanderer3519 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-# 👋 Hi, I'm wanderer3519 Sri Krishna
+# 👋 Hi, I'm Bhogaraju Shanmukha Sri Krishna
 ![Profile Views](https://komarev.com/ghpvc/?username=wanderer3519&color=blue)
 
+- Currently pursuing B.Tech in Computer Science and Engineering at IIT Palakkad
 
 💡 Passionate about building **scalable systems, compilers, and intelligent applications**.  
 🎯 Currently sharpening my **DSA skills** for placements and working on impactful projects.  
