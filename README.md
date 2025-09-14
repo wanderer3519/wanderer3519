@@ -22,11 +22,11 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, C, C++, JavaScript, TypeScript  
-- **Frontend**: React, Angular, Next.js, TailwindCSS  
-- **Backend**: FastAPI, Flask, Node.js  
-- **Databases**: PostgreSQL, MongoDB  
-- **Tools**: Git, Linux (Mint), Docker  
+- **Languages**: Python, C, C++, JavaScript, TypeScript, Java, C#  
+- **Frontend**: React, Angular, Bootstrap  
+- **Backend**: FastAPI, Node.js
+- **Databases**: PostgreSQL, MySQL, SQLite
+- **Tools**: Git, Linux (Mint)
 
 ---
 
